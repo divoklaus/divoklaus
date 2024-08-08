@@ -1,8 +1,8 @@
-_嗨，這是@divoklaus_ 💅
+_meu nome @divoklaus_
 
-_我是alura的學生_
+_sou um aluno do alura_
 
-_我開始編程_
+_sou um estudante daqui tambem_
 
 _"I Wanna Be Yours"_
 
